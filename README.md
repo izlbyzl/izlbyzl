@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @izlbyzl
 - 👀 I’m interested in earth and environmental science, biodiversity conservation and GIS.
-- 🌱 I’m currently learning Python, R and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MSc Geographic Information Systems.
+- 📫 How to reach me izl.byzl@gmail.com
 - ⚡ Fun fact: I live on a narrowboat with my dog! :)
 
 <!---
